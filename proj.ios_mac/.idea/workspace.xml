@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8ec293b-8bb8-4e9b-afa0-1c288cea9259" name="Default" comment="" />
+    <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/Othello-gugomqejeshmhpcdiopaullphkdm/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GameScene.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Classes/GameScene.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getStringForKey(&quot;GameMode&quot;)</find>
+      <find>棋谱</find>
+      <find>game-&gt;chessRecord</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Classes/MainScene.h" />
+        <option value="$PROJECT_DIR$/../Classes/MainScene.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/GameScene.h" />
+        <option value="$PROJECT_DIR$/../Classes/Algorithm/AIAction/Node.h" />
+        <option value="$PROJECT_DIR$/../Classes/Algorithm/AIAction/Node.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/Algorithm/AIAction/AIAction.h" />
+        <option value="$PROJECT_DIR$/../Classes/Algorithm/AIAction/AIAction.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/Algorithm/AIAction/MovingDecision.h" />
+        <option value="$PROJECT_DIR$/../Classes/GameLogic/Logic/Game.h" />
+        <option value="$PROJECT_DIR$/../Classes/GameLogic/Logic/Move.h" />
+        <option value="$PROJECT_DIR$/../Classes/GameLogic/Logic/Game.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/GameLogic/Logic/Move.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/GameLogic/Logic/GameLogicEnum.h" />
+        <option value="$PROJECT_DIR$/../Classes/GameLogic/Logic/ChessSituation.h" />
+        <option value="$PROJECT_DIR$/../Classes/GameLogic/Logic/ChessSituation.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/GameLogic/Entire/Player.h" />
+        <option value="$PROJECT_DIR$/../Classes/GameLogic/Entire/Player.cpp" />
+        <option value="$PROJECT_DIR$/../Classes/GameScene.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="Othello" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="Othello" type="1d218c8b:XcodeProjectNode" />
+              <item name="Classes" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="Othello-desktop" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Othello-desktop-release">
+    <configuration name="Othello-desktop-release" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Othello" TARGET_NAME="Othello-desktop" CONFIG_NAME="Release" SCHEME_NAME="Othello-desktop-release" IS_LOCATION_SIMULATION_ALLOWED="true" LOCATION_SCENARIO_ID="com.apple.dt.IDEFoundation.CurrentLocationScenarioIdentifier" LOCATION_SCENARIO_TYPE="1" RUN_TARGET_PROJECT_NAME="Othello" RUN_TARGET_NAME="Othello-desktop" MAKE_ACTIVE="TRUE">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+    <configuration name="Othello-desktop" type="AppleRunConfiguration" factoryName="Application" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Othello" TARGET_NAME="Othello-desktop" CONFIG_NAME="Debug" SCHEME_NAME="Othello-desktop" IS_LOCATION_SIMULATION_ALLOWED="true" LOCATION_SCENARIO_ID="com.apple.dt.IDEFoundation.CurrentLocationScenarioIdentifier" LOCATION_SCENARIO_TYPE="1" RUN_TARGET_PROJECT_NAME="Othello" RUN_TARGET_NAME="Othello-desktop" MAKE_ACTIVE="TRUE">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+    <configuration name="Othello-mobile" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Othello" TARGET_NAME="Othello-mobile" CONFIG_NAME="Debug" SCHEME_NAME="Othello-mobile" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="Othello" RUN_TARGET_NAME="Othello-mobile" MAKE_ACTIVE="TRUE">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Othello-mobile" />
+      <item itemvalue="Application.Othello-desktop-release" />
+      <item itemvalue="Application.Othello-desktop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Othello-desktop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8ec293b-8bb8-4e9b-afa0-1c288cea9259" name="Default" comment="" />
+      <created>1528381007492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528381007492</updated>
+      <workItem from="1528381010032" duration="813000" />
+      <workItem from="1528382210926" duration="222000" />
+      <workItem from="1528425896643" duration="248000" />
+      <workItem from="1528426226647" duration="1876000" />
+      <workItem from="1528429804482" duration="3776000" />
+      <workItem from="1528435578734" duration="1194000" />
+      <workItem from="1528469192759" duration="479000" />
+      <workItem from="1528512891817" duration="1273000" />
+      <workItem from="1529297349667" duration="115000" />
+      <workItem from="1529297587069" duration="728000" />
+      <workItem from="1529298417190" duration="737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11461000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49921876" weight="0.3275401" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50078124" side_tool="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36096257" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973262" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="e#66#133#0" />
+            <element signature="e#135#427#0" />
+            <element signature="e#429#499#0" />
+            <element signature="e#501#7095#0" />
+            <element signature="e#7097#8041#0" />
+            <element signature="e#8043#8989#0" />
+            <element signature="e#8991#16968#0" />
+            <element signature="e#16970#18431#0" />
+            <element signature="e#18433#18756#0" />
+            <element signature="e#18758#18876#0" />
+            <element signature="e#18878#19530#0" />
+            <element signature="e#19532#20184#0" />
+            <element signature="e#20186#23575#0" />
+            <element signature="e#23577#26966#0" />
+            <element signature="e#26968#28707#0" />
+            <element signature="e#28709#28992#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10285">
+          <caret line="605" column="35" selection-start-line="605" selection-start-column="35" selection-end-line="605" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10285">
+          <caret line="605" column="35" lean-forward="true" selection-start-line="605" selection-start-column="35" selection-end-line="605" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10506">
+          <caret line="618" column="44" lean-forward="true" selection-start-line="618" selection-start-column="44" selection-end-line="618" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10506">
+          <caret line="618" column="35" selection-start-line="618" selection-start-column="18" selection-end-line="618" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/MainScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#24#91#0" />
+            <element signature="e#93#402#0" />
+            <element signature="e#404#670#0" />
+            <element signature="e#672#931#0" />
+            <element signature="e#933#1406#0" />
+            <element signature="e#1408#1711#0" />
+            <element signature="e#1713#5856#0" />
+            <element signature="e#5858#9290#0" />
+            <element signature="e#9292#11861#0" />
+            <element signature="e#11863#14550#0" />
+            <element signature="e#14552#15177#0" />
+            <element signature="e#15179#16172#0" />
+            <element signature="e#16174#19249#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/Algorithm/AIAction/AIAction.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14824">
+          <caret line="872" column="22" lean-forward="true" selection-start-line="872" selection-start-column="22" selection-end-line="872" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/MainScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/HelloWorldScene.cpp" />
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/platform/apple/CCFileUtils-apple.mm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="226" selection-start-line="226" selection-end-line="226" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCLabel.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cocos2d/cocos/2d/CCNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1121" column="17" selection-start-line="1121" selection-start-column="17" selection-end-line="1121" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mac/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Entire/ChessCell.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Entire/ChessCell.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/MainScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+          <folding>
+            <element signature="e#24#91#0" />
+            <element signature="e#93#402#0" />
+            <element signature="e#404#670#0" />
+            <element signature="e#672#931#0" />
+            <element signature="e#933#1406#0" />
+            <element signature="e#1408#1711#0" />
+            <element signature="e#1713#5856#0" />
+            <element signature="e#5858#9290#0" />
+            <element signature="e#9292#11861#0" />
+            <element signature="e#11863#14550#0" />
+            <element signature="e#14552#15177#0" />
+            <element signature="e#15179#16172#0" />
+            <element signature="e#16174#19249#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Entire/Player.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Entire/Player.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Logic/ChessSituation.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Logic/ChessSituation.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Logic/GameLogicEnum.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Logic/Move.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Logic/Game.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Logic/Move.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameLogic/Logic/Game.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/Algorithm/AIAction/Node.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/Algorithm/AIAction/Node.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/Algorithm/AIAction/AIAction.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/Algorithm/AIAction/AIAction.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14147">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/Algorithm/AIAction/MovingDecision.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/AppDelegate.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/MainScene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#66#133#0" />
+            <element signature="e#135#427#0" />
+            <element signature="e#429#499#0" />
+            <element signature="e#501#7095#0" />
+            <element signature="e#7097#8041#0" />
+            <element signature="e#8043#8989#0" />
+            <element signature="e#8991#16968#0" />
+            <element signature="e#16970#18431#0" />
+            <element signature="e#18433#18756#0" />
+            <element signature="e#18758#18876#0" />
+            <element signature="e#18878#19530#0" />
+            <element signature="e#19532#20184#0" />
+            <element signature="e#20186#23575#0" />
+            <element signature="e#23577#26966#0" />
+            <element signature="e#26968#28707#0" />
+            <element signature="e#28709#28992#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Classes/GameScene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
